@@ -1,1 +1,2 @@
-# Hi :wave:, i'm Gourav Rawat
+
+<h1 align="center">Hi 👋, I'm Gourav Rawat </h1>
